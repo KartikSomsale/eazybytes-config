@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank account related local APIs"
+  contactDetails:
+    name: "Kartik Somasale"
+    email: "kartik100somsale@gmail.com"
+  onCallSupport:
+    - 9986415293
+    - 8553304494

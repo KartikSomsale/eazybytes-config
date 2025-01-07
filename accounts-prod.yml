@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank account related Prod APIs"
+  contactDetails:
+    name: "Prod Kartik Somasale"
+    email: "prod_kartik100somsale@gmail.com"
+  onCallSupport:
+    - "9986415293P"
+    - "8553304494P"

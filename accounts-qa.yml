@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank account related QA APIs"
+  contactDetails:
+    name: "Kartik Somasale QA"
+    email: "QA_kartik100somsale@gmail.com"
+  onCallSupport:
+    - "9986415293Q"
+    - "8553304494Q"
