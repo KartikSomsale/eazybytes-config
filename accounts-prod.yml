@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 accounts:
-  message: "Welcome to EazyBank account related Production APIs"
+  message: "Welcome to EazyBank account related Prod APIs"
   contactDetails:
     name: "Prod Kartik Somasale"
     email: "{cipher}3c83c8059124b07dde3a0e302950e28351a976b84f0892a59134366d9ebd531a3edb10f98bb079952bdba39fe4af1ea1"
